@@ -1,0 +1,11 @@
+{
+  "name": "dian",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bryht/dian.git",
+  "author": "bryht <bryht@live.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^33.2.1"
+  }
+}
