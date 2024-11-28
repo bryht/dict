@@ -1,11 +1,19 @@
 {
   "name": "dian",
-  "version": "1.0.0",
-  "main": "index.js",
+  "version": "0.7.3",
+  "private": true,
+  "main": "main.js",
+  "description": "a dictionary app",
+  "homepage": ".",
+  "author": {
+    "name": "bryht",
+    "email": "bryht@live.com"
+  },
   "repository": "https://github.com/bryht/dian.git",
-  "author": "bryht <bryht@live.com>",
-  "license": "MIT",
   "devDependencies": {
     "electron": "^33.2.1"
+  },
+  "scripts": {
+    "start": "electron ."
   }
 }
